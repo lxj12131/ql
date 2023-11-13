@@ -1,4 +1,4 @@
-青龙拉库：ql repo https://github.com/Bidepanlong/ql.git "bd_" "README" "SendNotify"
+青龙拉库：ql repo https://github.com/lxj12131/ql.git "bd_" "README" "SendNotify"
 
 WX机器人
 
